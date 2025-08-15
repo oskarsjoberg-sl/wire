@@ -17,7 +17,7 @@
 package main
 
 import (
-	"github.com/google/wire"
+	"github.com/oskarsjoberg-sl/wire"
 )
 
 // Wire tries to disambiguate the variable "select" by prepending
